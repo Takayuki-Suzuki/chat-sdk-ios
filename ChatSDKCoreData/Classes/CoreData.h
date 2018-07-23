@@ -17,5 +17,6 @@
 #import <ChatSDK/CDMessage.h>
 #import <ChatSDK/CDUserConnection.h>
 #import <ChatSDK/CDUserAccount.h>
+#import <ChatSDK/CDProfile.h>
 
 #endif /* ChatCoreData_h */

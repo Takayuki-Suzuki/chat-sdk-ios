@@ -44,6 +44,7 @@
 #import <ChatSDK/PGroup.h>
 #import <ChatSDK/PModule.h>
 #import <ChatSDK/PInterfaceFacade.h>
+#import <ChatSDK/PProfile.h>
 
 #import <ChatSDK/PElmMessage.h>
 #import <ChatSDK/PElmThread.h>

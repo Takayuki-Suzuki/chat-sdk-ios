@@ -19,6 +19,7 @@
 #define bMetaDataEntity @"CDMetaData"
 #define bUserConnectionEntity @"CDUserConnection"
 #define bGroupEntity @"CDGroup"
+#define bProfileEntity @"CDProfile"
 
 @class BMessageDef;
 @class BThreadDef;
