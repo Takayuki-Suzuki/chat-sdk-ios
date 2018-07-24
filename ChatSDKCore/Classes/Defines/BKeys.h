@@ -69,6 +69,7 @@
 #define bIndexPath @"index"
 #define bSearchIndexPath @"searchIndex"
 #define bLastOnlinePath @"last-online"
+#define bProfilePath @"profile"
 
 #define bAudioPath @"audio"
 #define bVideoPath @"video"

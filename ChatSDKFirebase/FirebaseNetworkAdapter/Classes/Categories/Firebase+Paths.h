@@ -20,6 +20,9 @@
 +(FIRDatabaseReference *) userThreadsRef: (NSString *) firebaseID;
 +(FIRDatabaseReference *) userMetaRef: (NSString *) firebaseID;
 
+//Profile
++(FIRDatabaseReference *) profileRef;
+
 // Messages
 +(FIRDatabaseReference *) threadsRef;
 +(FIRDatabaseReference *) threadRef: (NSString *) firebaseID;

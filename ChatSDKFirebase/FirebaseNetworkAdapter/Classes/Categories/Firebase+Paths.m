@@ -49,6 +49,12 @@
     return [[[self firebaseRef] child:bOnlinePath] child:firebaseID];
 }
 
+#pragma Profiles
+
++(FIRDatabaseReference *) profileRef: (NSString *) firebaseID {
+    return [[self firebaseRef] child:bProfilePath];
+}
+
 #pragma Flag ref
 
 +(FIRDatabaseReference *) flaggedMessagesRef {
